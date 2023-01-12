@@ -48,11 +48,11 @@ a:hover {
 }
 
 .bg-img1 {
-  background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url('https://wallpapercave.com/wp/wp1906348.png');
+  background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url('./image/your-name.png');
 }
 
 .bg-img2 {
-  background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url('https://i.pinimg.com/originals/96/18/6b/96186b308addc3c4700a26adb3aac278.gif');
+  background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url('./image/the-garden-od-words.jpg');
 }
 
 .parallax {
